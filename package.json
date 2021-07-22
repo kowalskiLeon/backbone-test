@@ -1,0 +1,27 @@
+{
+  "name": "backbone-teste",
+  "version": "1.0.0",
+  "description": "a backbone test by guilherme moura",
+  "main": "app.js",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "express-subdomain": "^1.0.5",
+    "vhost": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowalskiLeon/backbone-test.git"
+  },
+  "author": "Guilherme Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kowalskiLeon/backbone-test/issues"
+  },
+  "homepage": "https://github.com/kowalskiLeon/backbone-test#readme"
+}
